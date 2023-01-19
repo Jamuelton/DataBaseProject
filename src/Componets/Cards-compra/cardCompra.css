@@ -1,0 +1,22 @@
+.card_container{
+    
+    border: 3px solid #000000;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 5px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.card_p1{
+
+    color: white;
+    padding: 10px 20px ;
+    text-align: left;
+    background-color: #8854d0;
+    display: flex;
+    align-items: left;
+    
+}
